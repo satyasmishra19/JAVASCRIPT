@@ -1,0 +1,14 @@
+console.log('satya');
+let a= 10;
+let b= 20;
+//let output = `the total sum is: ${a+b} rupees.`;
+console.log(`the total sum is: ${a+b} rupees.`);
+console.log(a<b);
+console.log('a'>'A');
+alert("hii");
+let firstname=prompt("hello");
+let lastname=prompt("hello");
+let msg = "welcome"+" "+firstname+lastname+"!";
+alert(msg);
+console.error("this is the error message");
+console.warn("this is the warning message");
